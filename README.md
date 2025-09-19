@@ -1,7 +1,5 @@
 <h1> Challenge Amigo Secreto</h1>
 
-# Challenge Amig Secreto
-
 Esta aplicación web hace parte de un desafío de lógica de programación que simula un sistema de sorteo de un "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y luego realizar el sorteo para elegir aleatoriamente uno de los nombres.
 
 ## ✨ Cómo usar la aplicación
